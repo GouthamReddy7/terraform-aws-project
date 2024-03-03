@@ -41,9 +41,9 @@ Terraform Installed: Make sure you have Terraform installed on your local machin
 
 Clone this repository to your local machine.
 
-git clone <repository-url>
+git clone{repository-url}
 
-cd <repository-directory>
+cd {repository-directory}
 
 
 **Set up your AWS credentials.**
